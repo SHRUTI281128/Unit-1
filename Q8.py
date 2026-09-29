@@ -50,3 +50,23 @@ cinema.add_movie(m3)
 
 # Displaying movie details
 cinema.display_movies()
+
+'''
+Movie Collection
+========================
+Movie Name: Avengers
+Rating: 9
+Ticket Price: ₹ 250
+Category: Hit
+------------------------
+Movie Name: Dangal
+Rating: 7
+Ticket Price: ₹ 200
+Category: Average
+------------------------
+Movie Name: Race 3
+Rating: 4
+Ticket Price: ₹ 150
+Category: Flop
+------------------------
+'''
