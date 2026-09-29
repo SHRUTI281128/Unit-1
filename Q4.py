@@ -50,3 +50,24 @@ store.add_mobile(m3)
 
 # Displaying all mobiles
 store.display_mobiles()
+
+
+'''
+Mobile Store Details
+========================
+Brand: Apple
+Model: iPhone 15
+Price: ₹ 60000
+Category: Premium
+------------------------
+Brand: Samsung
+Model: Galaxy A55
+Price: ₹ 30000
+Category: Mid-range
+------------------------
+Brand: Redmi
+Model: Note 13
+Price: ₹ 15000
+Category: Budget
+------------------------
+'''
